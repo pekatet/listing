@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Item from './Item'
+import Item from './Item';
 
 function Listing({items}){
   return (
@@ -16,4 +16,4 @@ function Listing({items}){
   )
 }
 
-export default Listing
+export default Listing;
